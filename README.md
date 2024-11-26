@@ -52,3 +52,4 @@ A simple interface with moving ball, two paddles, and real-time scoring:
 - Dynamic ball movement and paddle interactions.
 
 ---
+![image](https://github.com/user-attachments/assets/51c887c9-f51d-466e-b0ea-e9821a0b2917)
