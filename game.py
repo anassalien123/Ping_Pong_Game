@@ -2,7 +2,7 @@ import turtle
 
 # setup window ===========
 window = turtle.Screen()
-window.title("Ping Pong Game By SabryHosny")
+window.title("Ping Pong Game By Anass cheab")
 window.setup(width=800, height=600)
 window.tracer(0) # set delay for update darwings
 window.bgcolor(.1, .1, .1)
